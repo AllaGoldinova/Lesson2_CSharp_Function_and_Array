@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\bin\Debug\net6.0\Project_004.exe
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\bin\Debug\net6.0\Project_004.deps.json
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\bin\Debug\net6.0\Project_004.runtimeconfig.json
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\bin\Debug\net6.0\Project_004.dll
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\bin\Debug\net6.0\Project_004.pdb
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\obj\Debug\net6.0\Project_004.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\obj\Debug\net6.0\Project_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\obj\Debug\net6.0\Project_004.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\obj\Debug\net6.0\Project_004.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\obj\Debug\net6.0\Project_004.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\obj\Debug\net6.0\Project_004.dll
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\obj\Debug\net6.0\refint\Project_004.dll
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\obj\Debug\net6.0\Project_004.pdb
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\obj\Debug\net6.0\Project_004.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Lesson2_CSharp_Function_and_Array\Project_004\obj\Debug\net6.0\ref\Project_004.dll
